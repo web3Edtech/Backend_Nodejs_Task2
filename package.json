@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-performance-tuning",
+  "version": "1.0.0",
+  "description": "A project to practice performance tuning techniques in MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^4.2.0"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
