@@ -1,14 +1,12 @@
 {
-  "name": "mongodb-performance-tuning",
+  "name": "basic-http-server",
   "version": "1.0.0",
-  "description": "A project to practice performance tuning techniques in MongoDB.",
-  "main": "index.js",
+  "description": "A basic HTTP server using Node.js that responds with 'Hello, World!'",
+  "main": "httpServer.js",
   "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "mongodb": "^4.2.0"
+    "start": "node httpServer.js"
   },
   "author": "NFThing",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
